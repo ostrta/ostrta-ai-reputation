@@ -17,6 +17,7 @@ ostrta/
 ├── TEAM.md                             # AI agent definitions (11.8 KB)
 ├── HANDOFF.md                          # Project handoff summary (6.6 KB)
 ├── CONTEXT-MAP.md                      # This file
+├── MULTI-PROJECT-GUIDE.md              # Guide for working on multiple projects (10.7 KB)
 ├── landing-page-copy.md                # Bilingual copy (JP/EN) (15.0 KB)
 ├── landing-page-component-draft.tsx    # Draft component (16.0 KB)
 ├── landing/                            # Next.js landing page (Git repo)

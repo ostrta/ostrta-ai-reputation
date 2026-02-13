@@ -97,7 +97,8 @@ Japanese companies expanding globally:
 ## Documentation
 
 **Main Project Doc:** `~/.openclaw/workspace/memory/ostrta-ai-reputation-manager.md`  
-**Pivot Explanation:** `~/.openclaw/workspace/memory/2026-02-13-pivot-explanation.md`
+**Pivot Explanation:** `~/.openclaw/workspace/memory/2026-02-13-pivot-explanation.md`  
+**Multi-Project Guide:** `MULTI-PROJECT-GUIDE.md` - How to work on multiple projects without context pollution
 
 ---
 
