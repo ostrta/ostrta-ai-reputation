@@ -165,7 +165,7 @@ vercel --prod
 
 **Email:** hello@ostrta.com  
 **Domain:** ostrta.com (owned, not yet configured)  
-**GitHub:** TBD (will create `ostrta-ai-reputation` repo)
+**GitHub:** https://github.com/ostrta/ostrta-ai-reputation
 
 ---
 

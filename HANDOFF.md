@@ -106,13 +106,12 @@ git commit -m "Update Formspree form endpoint"
 vercel --prod
 ```
 
-### To Initialize Main Repo (Optional)
+### Main Repo Status
 ```bash
 cd ~/Documents/ostrta
-git init
-git add .
-git commit -m "Initial OSTRTA AI Reputation Manager project"
-# Then: Create GitHub repo and push
+# ✅ Already initialized and pushed to GitHub
+# Repository: https://github.com/ostrta/ostrta-ai-reputation
+# Commit: ebe45c8
 ```
 
 ---

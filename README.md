@@ -103,7 +103,7 @@ Japanese companies expanding globally:
 
 ## Repository
 
-Coming soon: `ostrta-ai-reputation` (GitHub)
+**GitHub:** https://github.com/ostrta/ostrta-ai-reputation
 
 ---
 
